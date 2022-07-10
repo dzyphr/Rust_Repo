@@ -2,7 +2,7 @@
 # Rust Repository
 ###### Collection of Rust programs demonstrating various functionalities
 **Current Project Features**:
-  * 1
+  * Simple Examples
   * 2
   * 3
   * 4
