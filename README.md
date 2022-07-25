@@ -3,6 +3,6 @@
 ###### Collection of Rust programs demonstrating various functionalities
 **Current Project Features**:
   * Simple Examples
-  * 2
-  * 3
-  * 4
+  * Small and Lightweight code
+  * Fast Execution and Recompile times
+  * Minimal Dependencies
