@@ -1,5 +1,5 @@
 fn main() 
-{//runs through some example characters checks against useful common character types
+{//runs through some example characters checks against useful common character types returns boolean true or false
     let mut chosen_char = '1';
     println!("Is {} a decimal digit?\n{}",chosen_char,  chosen_char.is_digit(10));
     println!("Is {} alphanumeric?\n{}", chosen_char, chosen_char.is_alphanumeric());
