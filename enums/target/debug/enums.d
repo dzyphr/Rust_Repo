@@ -1,0 +1,1 @@
+/home/ryan/Documents/CustomProgramLibrary/GITHUB/ryanberk135@gmail.com/Rust_Repo/enums/target/debug/enums: /home/ryan/Documents/CustomProgramLibrary/GITHUB/ryanberk135@gmail.com/Rust_Repo/enums/src/main.rs
