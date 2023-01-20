@@ -1,10 +1,10 @@
+#![allow(non_snake_case)]
 use subprocess::{Popen, PopenConfig, Redirection};
 fn main() 
 {
     //the subprocess crate allows easy access to stdout and stderr
     let command = "gcc";
     let argument = "--version";
-    let mut output = String::new();
     let mut p = Popen::create(&[command, argument], PopenConfig {
         stdout: Redirection::Pipe, ..Default::default()
     }).expect("error running {command$} {argument$}");
