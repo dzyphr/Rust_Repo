@@ -15,8 +15,7 @@ fn main()
     {
         dbg!(format!("{:?}", exitStatus));
         assert!(format!("{:?}", exitStatus) == ("Some(Exited(0))"), 
-            "Subprocess execution returned unsuccessful exit status! Command being ran was:  ");
-        println!("{} {}", command, argument);
+            "Subprocess execution returned unsuccessful exit status! Command being ran was:  {} {}", command, argument);
     } 
     else 
     {
